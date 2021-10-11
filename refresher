@@ -18,8 +18,13 @@ Error Encountered
 	Uninstall MySQL / Reinstall MySQL
 	Issue no longer encountered
 	
-Testing some commands
+TESTING SOME COMMANDS
 \\ SELECT VERSION(), CURRENT_DATE;
 \\ Using SQL as calculator SELECT SIN(PI()/4), (10*2)/2
 \\ SELECT USER()
 \\ Quit
+
+CREATING DATABASE AND TABLE
+\\ CREATE DATABASE petcafe;
+\\ USE petcafe;
+\\ CREATE TABLE pet (name VARCHAR(20), owner VARCHAR(20), species VARCHAR(20), sex CHAR(1), birth DATE, death DATE);
