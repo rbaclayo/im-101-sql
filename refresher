@@ -1,1 +1,19 @@
 SQL Refresher
+Testing the installed MySQL
+	mysql -u root -p
+
+Error Encountered
+	Can't connect to MySQL server on 'localhost' (10061)
+
+	Tried this in the command line
+	Tried the following possible solutions
+		c:\mysql\bin>mysqld --install
+		c:\mysql\bin>mysqld --initialize
+
+		Then "Windows key + R" write "service.msc"
+		Inside services look for MYSQL then start the service
+
+	Still error..
+
+	Uninstall MySQL / Reinstall MySQL
+	Issue no longer encountered
