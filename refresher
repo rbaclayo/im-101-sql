@@ -17,3 +17,9 @@ Error Encountered
 
 	Uninstall MySQL / Reinstall MySQL
 	Issue no longer encountered
+	
+Testing some commands
+\\ SELECT VERSION(), CURRENT_DATE;
+\\ Using SQL as calculator SELECT SIN(PI()/4), (10*2)/2
+\\ SELECT USER()
+\\ Quit
