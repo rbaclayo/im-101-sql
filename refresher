@@ -28,3 +28,28 @@ CREATING DATABASE AND TABLE
 \\ CREATE DATABASE petcafe;
 \\ USE petcafe;
 \\ CREATE TABLE pet (name VARCHAR(20), owner VARCHAR(20), species VARCHAR(20), sex CHAR(1), birth DATE, death DATE);
+
+LOADING DATA INTO THE TABLE
+\\ DESCRIBE pet;
+\\ SHOW tables;
+
+\\ INSET INTO pet
+   VALUES ('Fluffy','Harold','cat','f','1993-02-04','NULL');
+\\ INSET INTO pet
+   VALUES ('Claws','Gwen','cat','m','1994-03-17','NULL');
+\\ INSET INTO pet
+   VALUES ('Buffy','Harold','dog','f','1989-05-13','NULL');
+\\ INSET INTO pet
+   VALUES ('Fang','Benny','dog','m','1990-08-27','NULL');
+\\ INSET INTO pet
+   VALUES ('Bowser','Diane','dog','m','1979-08-31','1995-07-29');
+\\ INSET INTO pet
+   VALUES ('Chirpy','Gwen','bird','f','1998-09-11','NULL');
+\\ INSET INTO pet
+   VALUES ('Whistler','Gwen','bird','NULL','1997-12-09','NULL');
+\\ INSET INTO pet
+   VALUES ('Slim','Benny','snake','m','1996-04-29','NULL');
+
+\\ SELECT * FROM pet;
+
+
