@@ -53,3 +53,16 @@ LOADING DATA INTO THE TABLE
 \\ SELECT * FROM pet;
 
 
+INSERTING USING TXT FILE
+\\ LOAD DATA LOCAL INFILE 'D:/GOOGLE_DRIVE/SCHOOL/3rd Year - First Semester/Advance Database Systems/pet.txt' INTO TABLE pet;
+\\ Error encountered
+	-"Loading local data is disabled; this must be enabled on both the client and server sides"
+	- Fixing Issue
+	- 1.) Check the local_infile if disabled or enable
+		\\ show global variables like 'local_infile'
+	- 2.) If value of local_infile is "OFF"
+		\\ set global local_infile=true;
+	- 3.) Quit/Restart MYSQL then try to check again if value is now "ON"
+	- 4.) Quit/Restart MYSQL with additional statement "--local_infile=1"
+		\\ mysql --local_infile=1 -u root -p
+	- 5.) Try again now to insert data into the database using txt file
