@@ -66,3 +66,5 @@ INSERTING USING TXT FILE
 	- 4.) Quit/Restart MYSQL with additional statement "--local_infile=1"
 		\\ mysql --local_infile=1 -u root -p
 	- 5.) Try again now to insert data into the database using txt file
+	ISSUE is now fixed
+	
