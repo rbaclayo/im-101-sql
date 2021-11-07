@@ -3,4 +3,8 @@ Installing PGAdmin4                  - DONE
 Adding postgresql to PGAdmin4        - DONE
 Creating Database "enterprise"       - DONE
 Create Table "customer"              - DONE
-Section 1. Querying Data
+Section 1. Querying Data             - DONE
+Section 9. Modifying Data ------------------
+---> INSERT                          - DONE
+Section 12. Managing Tables ----------------
+---> ALTER TABLE                     - DONE
