@@ -1,2 +1,3 @@
-Installing PostGreSql - DONE
-Installing PGAdmin    - DONE
+Installing postgresql                - DONE
+Installing PGAdmin4                  - DONE
+Adding postgresql to PGAdmin4        - DONE
