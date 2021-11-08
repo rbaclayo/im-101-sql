@@ -60,4 +60,9 @@ Section 10. Transactions ----------------------------
 Section 11. Import & Export Data -------------------- 
 Section 12. Managing Tables -------------------------
 Section 13. Understanding PostgreSQL Constraints ----
+Section 14. PostgreSQL Data Types in Depth ----------
+Section 15. Conditional Expressions & Operators -----
+Section 16. PostgreSQL Utilities --------------------
+Section 17. PostgreSQL Recipes ----------------------
 
+------------ Advanced PostgreSQL Tutorial -----------
