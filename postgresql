@@ -6,8 +6,8 @@ Create Table "customer"              - DONE
 
 Section 1. Querying Data ------------------
 Select                               - DONE
-Column aliases                       
-Order By  
+Column aliases                       - DONE                    
+Order By                             - DONE
 Select Distinct
 
 Section 9. Modifying Data -----------------
