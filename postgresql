@@ -1,17 +1,63 @@
-Installing postgresql                - DONE
-Installing PGAdmin4                  - DONE
-Adding postgresql to PGAdmin4        - DONE
-Creating Database "enterprise"       - DONE
-Create Table "customer"              - DONE
+--------------------- POSTGRESQL --------------------
 
-Section 1. Querying Data ------------------
-Select                               - DONE
-Column aliases                       - DONE                    
-Order By                             - DONE
-Select Distinct
+Installing postgresql                          - DONE
+Installing PGAdmin4                            - DONE
+Adding postgresql to PGAdmin4                  - DONE
+Creating Database "enterprise"                 - DONE
+Create Table "customer"                        - DONE
 
-Section 9. Modifying Data -----------------
----> INSERT                          - DONE
+Section 1. Querying Data ----------------------------
+Select                                         - DONE
+Column aliases                                 - DONE                    
+Order By                                       - DONE
+Select Distinct                                - DONE
 
-Section 12. Managing Tables ---------------
----> ALTER TABLE                     - DONE
+Section 2. Filtering Data ---------------------------
+Where
+Limit
+Fetch
+In
+Between
+Like
+Is Null 
+
+Section 3. Joining Multiple Tables ------------------
+Joins
+Table aliases
+Inner Join
+Left Join
+Self-join
+Full Outer Join
+Cross Join
+Natural Join
+
+Section 4. Grouping Data ----------------------------
+Group By
+Having
+
+Section 5. Set Operations ---------------------------
+Union
+Intersect
+Except
+
+Section 6. Grouping sets, Cube, and Rollup-
+Grouping Sets
+Cube
+Rollup
+
+Section 7. Subquery ---------------------------------
+Subquery
+ANY
+ALL
+EXISTS
+
+Section 8. Common Table Expressions -----------------
+PostgreSQL CTE
+Recursive query using CTEs
+
+Section 9. Modifying Data ---------------------------
+Section 10. Transactions ----------------------------
+Section 11. Import & Export Data -------------------- 
+Section 12. Managing Tables -------------------------
+Section 13. Understanding PostgreSQL Constraints ----
+
