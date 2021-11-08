@@ -40,7 +40,7 @@ Union
 Intersect
 Except
 
-Section 6. Grouping sets, Cube, and Rollup-
+Section 6. Grouping sets, Cube, and Rollup ----------
 Grouping Sets
 Cube
 Rollup
@@ -56,13 +56,74 @@ PostgreSQL CTE
 Recursive query using CTEs
 
 Section 9. Modifying Data ---------------------------
+Insert
+Insert multiple rows
+Update
+Update join
+Delete
+Upsert
+
 Section 10. Transactions ----------------------------
-Section 11. Import & Export Data -------------------- 
+PostgreSQL Transactions
+
+Section 11. Import & Export Data --------------------
+Import CSV file into Table
+Export PostgreSQL Table to CSV file
+
 Section 12. Managing Tables -------------------------
+Data types
+Create table
+Select Into & Create table as
+Auto-increment 
+Sequences
+Identity column
+Alter table
+Rename table
+Add column
+Drop column
+Change column data type
+Rename column
+Drop table
+Truncate table
+Temporary table
+Copy a table
+
 Section 13. Understanding PostgreSQL Constraints ----
+Primary key
+Foreign key
+CHECK constraint
+UNIQUE constraint
+NOT NULL constraint
+
 Section 14. PostgreSQL Data Types in Depth ----------
+Boolean
+CHAR, VARCHAR and TEXT
+NUMERIC
+Integer
+DATE
+Timestamp
+Interval
+TIME
+UUID
+Array
+hstore
+JSON
+User-defined data types
+
 Section 15. Conditional Expressions & Operators -----
+CASE
+COALESCE
+NULLIF
+CAST
+
 Section 16. PostgreSQL Utilities --------------------
+psql commands
+
 Section 17. PostgreSQL Recipes ----------------------
+How to compare two tables
+How to delete duplicate rows in PostgreSQL
+How to generate a random number in a range
+EXPLAIN statement
+PostgreSQL vs. MySQL
 
 ------------ Advanced PostgreSQL Tutorial -----------
