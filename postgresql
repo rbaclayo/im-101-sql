@@ -14,12 +14,12 @@ Select Distinct                                - DONE
 
 Section 2. Filtering Data ---------------------------
 Where                                          - DONE
-Limit
-Fetch
-In
-Between
-Like
-Is Null 
+Limit                                          - DONE
+Fetch                                          - DONE
+In                                             - DONE
+Between                                        - DONE
+Like                                           - DONE
+Is Null                                        - DONE
 
 Section 3. Joining Multiple Tables ------------------
 Joins
