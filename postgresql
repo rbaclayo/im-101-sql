@@ -22,14 +22,14 @@ Like                                           - DONE
 Is Null                                        - DONE
 
 Section 3. Joining Multiple Tables ------------------
-Joins
-Table aliases
-Inner Join
-Left Join
-Self-join
-Full Outer Join
-Cross Join
-Natural Join
+Joins                                          - DONE
+Table aliases                                  - DONE
+Inner Join                                     - DONE
+Left Join                                      - DONE
+Self-join                                      - 
+Full Outer Join                                - 
+Cross Join                                     -
+Natural Join                                   
 
 Section 4. Grouping Data ----------------------------
 Group By
