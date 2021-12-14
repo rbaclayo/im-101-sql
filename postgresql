@@ -26,9 +26,9 @@ Joins                                          - DONE
 Table aliases                                  - DONE
 Inner Join                                     - DONE
 Left Join                                      - DONE
-Self-join                                      - 
-Full Outer Join                                - 
-Cross Join                                     -
+Self-join                                      - DONE
+Full Outer Join                                - DONE
+Cross Join                                     - DONE
 Natural Join                                   
 
 Section 4. Grouping Data ----------------------------
