@@ -29,27 +29,27 @@ Left Join                                      - DONE
 Self-join                                      - DONE
 Full Outer Join                                - DONE
 Cross Join                                     - DONE
-Natural Join                                   
+Natural Join                                   - DONE                       
 
 Section 4. Grouping Data ----------------------------
-Group By
-Having
+Group By                                       - DONE
+Having                                         - DONE
 
 Section 5. Set Operations ---------------------------
-Union
-Intersect
-Except
+Union                                          - DONE
+Intersect                                      - DONE
+Except                                         - DONE
 
 Section 6. Grouping sets, Cube, and Rollup ----------
-Grouping Sets
-Cube
-Rollup
+Grouping Sets                                  - DONE
+Cube                                           - DONE
+Rollup                                         - DONE
 
 Section 7. Subquery ---------------------------------
-Subquery
-ANY
-ALL
-EXISTS
+Subquery                                      - DONE
+ANY                                           - DONE
+ALL                                           - DONE
+EXISTS                                        - DONE
 
 Section 8. Common Table Expressions -----------------
 PostgreSQL CTE
